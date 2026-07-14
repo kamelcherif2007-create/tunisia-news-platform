@@ -1,0 +1,12 @@
+{
+  "common": {
+    "home": "Startseite",
+    "news": "Nachrichten",
+    "categories": "Kategorien",
+    "search": "Suchen",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden",
+    "dashboard": "Armaturenbrett"
+  }
+}

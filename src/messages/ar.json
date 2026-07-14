@@ -1,0 +1,12 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "news": "الأخبار",
+    "categories": "الأقسام",
+    "search": "بحث",
+    "login": "دخول",
+    "register": "تسجيل",
+    "logout": "خروج",
+    "dashboard": "لوحة التحكم"
+  }
+}

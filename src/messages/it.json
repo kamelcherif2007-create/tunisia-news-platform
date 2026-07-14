@@ -1,0 +1,12 @@
+{
+  "common": {
+    "home": "Home",
+    "news": "Notizie",
+    "categories": "Categorie",
+    "search": "Cerca",
+    "login": "Accedi",
+    "register": "Registrati",
+    "logout": "Esci",
+    "dashboard": "Pannello di controllo"
+  }
+}

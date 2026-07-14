@@ -1,0 +1,12 @@
+{
+  "common": {
+    "home": "Accueil",
+    "news": "Actualités",
+    "categories": "Catégories",
+    "search": "Rechercher",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord"
+  }
+}
